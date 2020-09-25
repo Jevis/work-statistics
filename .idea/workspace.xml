@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47b284fe-9788-49a2-adc2-8892e2ff1ffc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1hr8sL4DH5yH3sRVAMzBhsBN9q7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Main">
+    <configuration name="ExcelDao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="chuqin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExcelDao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="chuqin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Main" />
+        <item itemvalue="Python.ExcelDao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47b284fe-9788-49a2-adc2-8892e2ff1ffc" name="Default Changelist" comment="" />
+      <created>1600758055500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600758055500</updated>
+      <workItem from="1600758060031" duration="51315000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1601005007029</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601005007029</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第一次提交">
+      <created>1601021561861</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601021561862</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600857911067">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="104" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.727/-1920.-257.1920.1057@0.23.1280.727" timestamp="1600768774088" />
+    <state x="104" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.728/-1920.-257.1920.1057@0.23.1280.728" timestamp="1600857911067" />
+    <state x="385" y="140" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600946306037">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="385" y="140" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.726/-1920.-257.1920.1057@0.23.1280.726" timestamp="1600946306037" />
+    <state x="385" y="140" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.727/-1920.-257.1920.1057@0.23.1280.727" timestamp="1600944754898" />
+    <state x="385" y="140" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.728/-1920.-257.1920.1057@0.23.1280.728" timestamp="1600841436509" />
+    <state x="710" y="170" width="1176" height="726" key="#xdebugger.evaluate" timestamp="1600943547830">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="93" y="24" key="#xdebugger.evaluate/0.23.1280.726/-1920.-257.1920.1057@0.23.1280.726" timestamp="1600932623674" />
+    <state x="710" y="170" key="#xdebugger.evaluate/0.23.1280.727/-1920.-257.1920.1057@0.23.1280.727" timestamp="1600943547830" />
+    <state x="93" y="24" width="1176" height="726" key="#xdebugger.evaluate/0.23.1280.728/-1920.-257.1920.1057@0.23.1280.728" timestamp="1600920166196" />
+    <state x="234" y="23" key="CommitChangelistDialog2" timestamp="1601021561741">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="234" y="23" key="CommitChangelistDialog2/0.23.1280.726/-1920.-257.1920.1057@0.23.1280.726" timestamp="1601021561741" />
+    <state width="1238" height="347" key="GridCell.Tab.0.bottom" timestamp="1601002356676">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="1238" height="347" key="GridCell.Tab.0.bottom/0.23.1280.726/-1920.-257.1920.1057@0.23.1280.726" timestamp="1601002356676" />
+    <state width="1238" height="347" key="GridCell.Tab.0.bottom/0.23.1280.727/-1920.-257.1920.1057@0.23.1280.727" timestamp="1600947850303" />
+    <state width="1238" height="367" key="GridCell.Tab.0.bottom/0.23.1280.728/-1920.-257.1920.1057@0.23.1280.728" timestamp="1600943061097" />
+    <state width="1238" height="313" key="GridCell.Tab.0.bottom/0.23.1280.729/-1920.-257.1920.1057@0.23.1280.729" timestamp="1600832814629" />
+    <state width="1238" height="347" key="GridCell.Tab.0.center" timestamp="1601002356675">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="1238" height="347" key="GridCell.Tab.0.center/0.23.1280.726/-1920.-257.1920.1057@0.23.1280.726" timestamp="1601002356675" />
+    <state width="1238" height="347" key="GridCell.Tab.0.center/0.23.1280.727/-1920.-257.1920.1057@0.23.1280.727" timestamp="1600947850303" />
+    <state width="1238" height="367" key="GridCell.Tab.0.center/0.23.1280.728/-1920.-257.1920.1057@0.23.1280.728" timestamp="1600943061096" />
+    <state width="1238" height="313" key="GridCell.Tab.0.center/0.23.1280.729/-1920.-257.1920.1057@0.23.1280.729" timestamp="1600832814628" />
+    <state width="1238" height="347" key="GridCell.Tab.0.left" timestamp="1601002356674">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="1238" height="347" key="GridCell.Tab.0.left/0.23.1280.726/-1920.-257.1920.1057@0.23.1280.726" timestamp="1601002356674" />
+    <state width="1238" height="347" key="GridCell.Tab.0.left/0.23.1280.727/-1920.-257.1920.1057@0.23.1280.727" timestamp="1600947850302" />
+    <state width="1238" height="367" key="GridCell.Tab.0.left/0.23.1280.728/-1920.-257.1920.1057@0.23.1280.728" timestamp="1600943061096" />
+    <state width="1238" height="313" key="GridCell.Tab.0.left/0.23.1280.729/-1920.-257.1920.1057@0.23.1280.729" timestamp="1600832814627" />
+    <state width="1238" height="347" key="GridCell.Tab.0.right" timestamp="1601002356676">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="1238" height="347" key="GridCell.Tab.0.right/0.23.1280.726/-1920.-257.1920.1057@0.23.1280.726" timestamp="1601002356676" />
+    <state width="1238" height="347" key="GridCell.Tab.0.right/0.23.1280.727/-1920.-257.1920.1057@0.23.1280.727" timestamp="1600947850303" />
+    <state width="1238" height="367" key="GridCell.Tab.0.right/0.23.1280.728/-1920.-257.1920.1057@0.23.1280.728" timestamp="1600943061097" />
+    <state width="1238" height="313" key="GridCell.Tab.0.right/0.23.1280.729/-1920.-257.1920.1057@0.23.1280.729" timestamp="1600832814628" />
+    <state width="1238" height="248" key="GridCell.Tab.1.bottom" timestamp="1600947992968">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="1238" height="248" key="GridCell.Tab.1.bottom/0.23.1280.726/-1920.-257.1920.1057@0.23.1280.726" timestamp="1600947992968" />
+    <state width="1238" height="192" key="GridCell.Tab.1.bottom/0.23.1280.727/-1920.-257.1920.1057@0.23.1280.727" timestamp="1600945834407" />
+    <state width="1238" height="367" key="GridCell.Tab.1.bottom/0.23.1280.728/-1920.-257.1920.1057@0.23.1280.728" timestamp="1600943078887" />
+    <state width="1238" height="248" key="GridCell.Tab.1.center" timestamp="1600947992968">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="1238" height="248" key="GridCell.Tab.1.center/0.23.1280.726/-1920.-257.1920.1057@0.23.1280.726" timestamp="1600947992968" />
+    <state width="1238" height="192" key="GridCell.Tab.1.center/0.23.1280.727/-1920.-257.1920.1057@0.23.1280.727" timestamp="1600945834407" />
+    <state width="1238" height="367" key="GridCell.Tab.1.center/0.23.1280.728/-1920.-257.1920.1057@0.23.1280.728" timestamp="1600943078886" />
+    <state width="1238" height="248" key="GridCell.Tab.1.left" timestamp="1600947992968">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="1238" height="248" key="GridCell.Tab.1.left/0.23.1280.726/-1920.-257.1920.1057@0.23.1280.726" timestamp="1600947992968" />
+    <state width="1238" height="192" key="GridCell.Tab.1.left/0.23.1280.727/-1920.-257.1920.1057@0.23.1280.727" timestamp="1600945834406" />
+    <state width="1238" height="367" key="GridCell.Tab.1.left/0.23.1280.728/-1920.-257.1920.1057@0.23.1280.728" timestamp="1600943078886" />
+    <state width="1238" height="248" key="GridCell.Tab.1.right" timestamp="1600947992968">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="1238" height="248" key="GridCell.Tab.1.right/0.23.1280.726/-1920.-257.1920.1057@0.23.1280.726" timestamp="1600947992968" />
+    <state width="1238" height="192" key="GridCell.Tab.1.right/0.23.1280.727/-1920.-257.1920.1057@0.23.1280.727" timestamp="1600945834407" />
+    <state width="1238" height="367" key="GridCell.Tab.1.right/0.23.1280.728/-1920.-257.1920.1057@0.23.1280.728" timestamp="1600943078886" />
+    <state x="153" y="26" key="SettingsEditor" timestamp="1601021342308">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="153" y="26" key="SettingsEditor/0.23.1280.726/-1920.-257.1920.1057@0.23.1280.726" timestamp="1601021342308" />
+    <state x="153" y="26" key="SettingsEditor/0.23.1280.728/-1920.-257.1920.1057@0.23.1280.728" timestamp="1600859463675" />
+    <state x="240" y="126" key="Vcs.Push.Dialog.v2" timestamp="1601021567448">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="240" y="126" key="Vcs.Push.Dialog.v2/0.23.1280.726/-1920.-257.1920.1057@0.23.1280.726" timestamp="1601021567448" />
+    <state x="429" y="310" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601021516102">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="429" y="310" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.726/-1920.-257.1920.1057@0.23.1280.726" timestamp="1601021379752" />
+    <state x="429" y="310" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.727/-1920.-257.1920.1057@0.23.1280.727" timestamp="1601021516102" />
+    <state x="307" y="75" width="670" height="676" key="search.everywhere.popup" timestamp="1600856790431">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="307" y="75" width="670" height="676" key="search.everywhere.popup/0.23.1280.728/-1920.-257.1920.1057@0.23.1280.728" timestamp="1600856790431" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/chuqin$ExcelDao.coverage" NAME="ExcelDao Coverage Results" MODIFIED="1600853163998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chuqin$Main.coverage" NAME="Main Coverage Results" MODIFIED="1601001989060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
